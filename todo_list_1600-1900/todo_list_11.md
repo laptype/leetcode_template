@@ -1,0 +1,20 @@
+# ToDo list 11: 
+
+
+- [ ] 23: 	 [1020.飞地的数量](https://leetcode.cn/problems/number-of-enclaves) 
+- [ ] 309: 	 [1546.和为目标值且不重叠的非空子数组的最大数目](https://leetcode.cn/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) 
+- [ ] 41: 	 [1053.交换一次的先前排列](https://leetcode.cn/problems/previous-permutation-with-one-swap) 
+- [ ] 280: 	 [1095.山脉数组中查找目标值](https://leetcode.cn/problems/find-in-mountain-array) 
+- [ ] 268: 	 [1792.最大平均通过率](https://leetcode.cn/problems/maximum-average-pass-ratio) 
+- [ ] 93: 	 [2033.获取单值网格的最小操作数](https://leetcode.cn/problems/minimum-operations-to-make-a-uni-value-grid) 
+- [ ] 224: 	 [842.将数组拆分成斐波那契序列](https://leetcode.cn/problems/split-array-into-fibonacci-sequence) 
+- [ ] 133: 	 [1017.负二进制转换](https://leetcode.cn/problems/convert-to-base-2) 
+- [ ] 57: 	 [2024.考试的最大困扰度](https://leetcode.cn/problems/maximize-the-confusion-of-an-exam) 
+- [ ] 289: 	 [1559.二维网格图中探测环](https://leetcode.cn/problems/detect-cycles-in-2d-grid) 
+- [ ] 73: 	 [2222.选择建筑的方案数](https://leetcode.cn/problems/number-of-ways-to-select-buildings) 
+- [ ] 306: 	 [1301.最大得分的路径数目](https://leetcode.cn/problems/number-of-paths-with-max-score) 
+- [ ] 206: 	 [948.令牌放置](https://leetcode.cn/problems/bag-of-tokens) 
+- [ ] 132: 	 [1289.下降路径最小和  II](https://leetcode.cn/problems/minimum-falling-path-sum-ii) 
+- [ ] 194: 	 [939.最小面积矩形](https://leetcode.cn/problems/minimum-area-rectangle) 
+- [ ] 150: 	 [2385.感染二叉树需要的总时间](https://leetcode.cn/problems/amount-of-time-for-binary-tree-to-be-infected) 
+- [ ] 89: 	 [2593.标记所有元素后数组的分数](https://leetcode.cn/problems/find-score-of-an-array-after-marking-all-elements) 

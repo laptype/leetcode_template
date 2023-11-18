@@ -1,9 +1,5 @@
-# leetcode_todo
+# ToDo list 0: 
 
-source：https://huxulm.github.io/lc-rating/#/zen
-
-
-# [ToDo 0](todo_list_1600-1900/todo_list_0.md/)
 
 - [ ] 106: 	 [2698.求一个整数的惩罚数](https://leetcode.cn/problems/find-the-punishment-number-of-an-integer) 
 - [ ] 48: 	 [1558.得到目标数组的最少函数调用次数](https://leetcode.cn/problems/minimum-numbers-of-function-calls-to-make-target-array) 

@@ -1,0 +1,20 @@
+# ToDo list 6: 
+
+
+- [ ] 277: 	 [1835.所有数对按位与结果的异或和](https://leetcode.cn/problems/find-xor-sum-of-all-pairs-bitwise-and) 
+- [ ] 115: 	 [2497.图中最大星和](https://leetcode.cn/problems/maximum-star-sum-of-a-graph) 
+- [ ] 42: 	 [1466.重新规划路线](https://leetcode.cn/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero) 
+- [ ] 104: 	 [2115.从给定原材料中找到所有可以做出的菜](https://leetcode.cn/problems/find-all-possible-recipes-from-given-supplies) 
+- [ ] 195: 	 [1135.最低成本联通所有城市](https://leetcode.cn/problems/connecting-cities-with-minimum-cost) 
+- [ ] 163: 	 [2070.每一个查询的最大美丽值](https://leetcode.cn/problems/most-beautiful-item-for-each-query) 
+- [ ] 158: 	 [2017.网格游戏](https://leetcode.cn/problems/grid-game) 
+- [ ] 196: 	 [1216.验证回文字符串 III](https://leetcode.cn/problems/valid-palindrome-iii) 
+- [ ] 203: 	 [2121.相同元素的间隔之和](https://leetcode.cn/problems/intervals-between-identical-elements) 
+- [ ] 166: 	 [1011.在 D 天内送达包裹的能力](https://leetcode.cn/problems/capacity-to-ship-packages-within-d-days) 
+- [ ] 66: 	 [1367.二叉树中的链表](https://leetcode.cn/problems/linked-list-in-binary-tree) 
+- [ ] 193: 	 [2166.设计位集](https://leetcode.cn/problems/design-bitset) 
+- [ ] 249: 	 [1028.从先序遍历还原二叉树](https://leetcode.cn/problems/recover-a-tree-from-preorder-traversal) 
+- [ ] 332: 	 [1392.最长快乐前缀](https://leetcode.cn/problems/longest-happy-prefix) 
+- [ ] 85: 	 [1219.黄金矿工](https://leetcode.cn/problems/path-with-maximum-gold) 
+- [ ] 260: 	 [1594.矩阵的最大非负积](https://leetcode.cn/problems/maximum-non-negative-product-in-a-matrix) 
+- [ ] 191: 	 [2401.最长优雅子数组](https://leetcode.cn/problems/longest-nice-subarray) 

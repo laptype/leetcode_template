@@ -1,0 +1,20 @@
+# ToDo list 2: 
+
+
+- [ ] 172: 	 [1292.元素和小于等于阈值的正方形的最大边长](https://leetcode.cn/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) 
+- [ ] 179: 	 [1139.最大的以 1 为边界的正方形](https://leetcode.cn/problems/largest-1-bordered-square) 
+- [ ] 290: 	 [2311.小于等于 K 的最长二进制子序列](https://leetcode.cn/problems/longest-binary-subsequence-less-than-or-equal-to-k) 
+- [ ] 144: 	 [2140.解决智力问题](https://leetcode.cn/problems/solving-questions-with-brainpower) 
+- [ ] 286: 	 [995.K 连续位的最小翻转次数](https://leetcode.cn/problems/minimum-number-of-k-consecutive-bit-flips) 
+- [ ] 316: 	 [1993.树上的操作](https://leetcode.cn/problems/operations-on-tree) 
+- [ ] 274: 	 [1458.两个子序列的最大点积](https://leetcode.cn/problems/max-dot-product-of-two-subsequences) 
+- [ ] 318: 	 [2767.将字符串分割为最少的美丽子字符串](https://leetcode.cn/problems/partition-string-into-minimum-beautiful-substrings) 
+- [ ] 140: 	 [2672.有相同颜色的相邻元素数目](https://leetcode.cn/problems/number-of-adjacent-elements-with-the-same-color) 
+- [ ] 209: 	 [875.爱吃香蕉的珂珂](https://leetcode.cn/problems/koko-eating-bananas) 
+- [ ] 14: 	 [962.最大宽度坡](https://leetcode.cn/problems/maximum-width-ramp) 
+- [ ] 335: 	 [1234.替换子串得到平衡字符串](https://leetcode.cn/problems/replace-the-substring-for-balanced-string) 
+- [ ] 348: 	 [2327.知道秘密的人数](https://leetcode.cn/problems/number-of-people-aware-of-a-secret) 
+- [ ] 43: 	 [2471.逐层排序二叉树所需的最少操作数目](https://leetcode.cn/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level) 
+- [ ] 114: 	 [2280.表示一个折线图的最少线段数](https://leetcode.cn/problems/minimum-lines-to-represent-a-line-chart) 
+- [ ] 4: 	 [2447.最大公因数等于 K 的子数组数目](https://leetcode.cn/problems/number-of-subarrays-with-gcd-equal-to-k) 
+- [ ] 165: 	 [2416.字符串的前缀分数和](https://leetcode.cn/problems/sum-of-prefix-scores-of-strings) 

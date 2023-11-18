@@ -1,0 +1,20 @@
+# ToDo list 15: 
+
+
+- [ ] 170: 	 [1273.删除树节点](https://leetcode.cn/problems/delete-tree-nodes) 
+- [ ] 287: 	 [2146.价格范围内最高排名的 K 样物品](https://leetcode.cn/problems/k-highest-ranked-items-within-a-price-range) 
+- [ ] 46: 	 [1386.安排电影院座位](https://leetcode.cn/problems/cinema-seat-allocation) 
+- [ ] 220: 	 [1016.子串能表示从 1 到 N 数字的二进制串](https://leetcode.cn/problems/binary-string-with-substrings-representing-1-to-n) 
+- [ ] 251: 	 [1834.单线程 CPU](https://leetcode.cn/problems/single-threaded-cpu) 
+- [ ] 218: 	 [1824.最少侧跳次数](https://leetcode.cn/problems/minimum-sideway-jumps) 
+- [ ] 49: 	 [990.等式方程的可满足性](https://leetcode.cn/problems/satisfiability-of-equality-equations) 
+- [ ] 317: 	 [1163.按字典序排在最后的子串](https://leetcode.cn/problems/last-substring-in-lexicographical-order) 
+- [ ] 223: 	 [1424.对角线遍历 II](https://leetcode.cn/problems/diagonal-traverse-ii) 
+- [ ] 129: 	 [1942.最小未被占据椅子的编号](https://leetcode.cn/problems/the-number-of-the-smallest-unoccupied-chair) 
+- [ ] 87: 	 [2611.老鼠和奶酪](https://leetcode.cn/problems/mice-and-cheese) 
+- [ ] 326: 	 [2002.两个回文子序列长度的最大乘积](https://leetcode.cn/problems/maximum-product-of-the-length-of-two-palindromic-subsequences) 
+- [ ] 74: 	 [1249.移除无效的括号](https://leetcode.cn/problems/minimum-remove-to-make-valid-parentheses) 
+- [ ] 145: 	 [979.在二叉树中分配硬币](https://leetcode.cn/problems/distribute-coins-in-binary-tree) 
+- [ ] 1: 	 [1864.构成交替字符串需要的最小交换次数](https://leetcode.cn/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating) 
+- [ ] 337: 	 [1106.解析布尔表达式](https://leetcode.cn/problems/parsing-a-boolean-expression) 
+- [ ] 141: 	 [2257.统计网格图中没有被保卫的格子数](https://leetcode.cn/problems/count-unguarded-cells-in-the-grid) 

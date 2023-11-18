@@ -1,0 +1,20 @@
+# ToDo list 17: 
+
+
+- [ ] 45: 	 [2384.最大回文数字](https://leetcode.cn/problems/largest-palindromic-number) 
+- [ ] 151: 	 [1042.不邻接植花](https://leetcode.cn/problems/flower-planting-with-no-adjacent) 
+- [ ] 79: 	 [1169.查询无效交易](https://leetcode.cn/problems/invalid-transactions) 
+- [ ] 244: 	 [2615.等值距离和](https://leetcode.cn/problems/sum-of-distances) 
+- [ ] 192: 	 [2400.恰好移动 k 步到达某一位置的方法数目](https://leetcode.cn/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps) 
+- [ ] 29: 	 [2365.任务调度器 II](https://leetcode.cn/problems/task-scheduler-ii) 
+- [ ] 295: 	 [1504.统计全 1 子矩形](https://leetcode.cn/problems/count-submatrices-with-all-ones) 
+- [ ] 61: 	 [1975.最大方阵和](https://leetcode.cn/problems/maximum-matrix-sum) 
+- [ ] 139: 	 [1947.最大兼容性评分和](https://leetcode.cn/problems/maximum-compatibility-score-sum) 
+- [ ] 149: 	 [1801.积压订单中的订单总数](https://leetcode.cn/problems/number-of-orders-in-the-backlog) 
+- [ ] 109: 	 [2492.两个城市间路径的最小分数](https://leetcode.cn/problems/minimum-score-of-a-path-between-two-cities) 
+- [ ] 322: 	 [1717.删除子字符串的最大得分](https://leetcode.cn/problems/maximum-score-from-removing-substrings) 
+- [ ] 94: 	 [1438.绝对差不超过限制的最长连续子数组](https://leetcode.cn/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) 
+- [ ] 105: 	 [2317.操作后的最大异或和](https://leetcode.cn/problems/maximum-xor-after-operations) 
+- [ ] 324: 	 [924.尽量减少恶意软件的传播](https://leetcode.cn/problems/minimize-malware-spread) 
+- [ ] 199: 	 [1027.最长等差数列](https://leetcode.cn/problems/longest-arithmetic-subsequence) 
+- [ ] 72: 	 [1004.最大连续1的个数 III](https://leetcode.cn/problems/max-consecutive-ones-iii) 

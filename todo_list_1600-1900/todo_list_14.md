@@ -1,0 +1,20 @@
+# ToDo list 14: 
+
+
+- [ ] 153: 	 [2406.将区间分为最少组数](https://leetcode.cn/problems/divide-intervals-into-minimum-number-of-groups) 
+- [ ] 221: 	 [2369.检查数组是否存在有效划分](https://leetcode.cn/problems/check-if-there-is-a-valid-partition-for-the-array) 
+- [ ] 110: 	 [2457.美丽整数的最小增量](https://leetcode.cn/problems/minimum-addition-to-make-integer-beautiful) 
+- [ ] 8: 	 [2546.执行逐位运算使字符串相等](https://leetcode.cn/problems/apply-bitwise-operations-to-make-strings-equal) 
+- [ ] 343: 	 [1066.校园自行车分配 II](https://leetcode.cn/problems/campus-bikes-ii) 
+- [ ] 226: 	 [2353.设计食物评分系统](https://leetcode.cn/problems/design-a-food-rating-system) 
+- [ ] 100: 	 [974.和可被 K 整除的子数组](https://leetcode.cn/problems/subarray-sums-divisible-by-k) 
+- [ ] 299: 	 [1258.近义词句子](https://leetcode.cn/problems/synonymous-sentences) 
+- [ ] 269: 	 [861.翻转矩阵后的得分](https://leetcode.cn/problems/score-after-flipping-matrix) 
+- [ ] 342: 	 [1326.灌溉花园的最少水龙头数目](https://leetcode.cn/problems/minimum-number-of-taps-to-open-to-water-a-garden) 
+- [ ] 126: 	 [2466.统计构造好字符串的方案数](https://leetcode.cn/problems/count-ways-to-build-good-strings) 
+- [ ] 123: 	 [919.完全二叉树插入器](https://leetcode.cn/problems/complete-binary-tree-inserter) 
+- [ ] 323: 	 [1616.分割两个字符串得到回文串](https://leetcode.cn/problems/split-two-strings-to-make-palindrome) 
+- [ ] 125: 	 [2337.移动片段得到字符串](https://leetcode.cn/problems/move-pieces-to-obtain-a-string) 
+- [ ] 18: 	 [1524.和为奇数的子数组数目](https://leetcode.cn/problems/number-of-sub-arrays-with-odd-sum) 
+- [ ] 248: 	 [966.元音拼写检查器](https://leetcode.cn/problems/vowel-spellchecker) 
+- [ ] 30: 	 [2086.从房屋收集雨水需要的最少水桶数](https://leetcode.cn/problems/minimum-number-of-food-buckets-to-feed-the-hamsters) 

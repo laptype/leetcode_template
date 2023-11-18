@@ -1,0 +1,20 @@
+# ToDo list 9: 
+
+
+- [ ] 83: 	 [2550.猴子碰撞的方法数](https://leetcode.cn/problems/count-collisions-of-monkeys-on-a-polygon) 
+- [ ] 284: 	 [2034.股票价格波动](https://leetcode.cn/problems/stock-price-fluctuation) 
+- [ ] 315: 	 [1996.游戏中弱角色的数量](https://leetcode.cn/problems/the-number-of-weak-characters-in-the-game) 
+- [ ] 35: 	 [1182.与目标颜色间的最短距离](https://leetcode.cn/problems/shortest-distance-to-target-color) 
+- [ ] 168: 	 [1014.最佳观光组合](https://leetcode.cn/problems/best-sightseeing-pair) 
+- [ ] 12: 	 [2745.构造最长的新字符串](https://leetcode.cn/problems/construct-the-longest-new-string) 
+- [ ] 187: 	 [2171.拿出最少数目的魔法豆](https://leetcode.cn/problems/removing-minimum-number-of-magic-beans) 
+- [ ] 44: 	 [1899.合并若干三元组以形成目标三元组](https://leetcode.cn/problems/merge-triplets-to-form-target-triplet) 
+- [ ] 102: 	 [853.车队](https://leetcode.cn/problems/car-fleet) 
+- [ ] 189: 	 [2134.最少交换次数来组合所有的 1 II](https://leetcode.cn/problems/minimum-swaps-to-group-all-1s-together-ii) 
+- [ ] 352: 	 [1878.矩阵中最大的三个菱形和](https://leetcode.cn/problems/get-biggest-three-rhombus-sums-in-a-grid) 
+- [ ] 202: 	 [2075.解码斜向换位密码](https://leetcode.cn/problems/decode-the-slanted-ciphertext) 
+- [ ] 148: 	 [923.三数之和的多种可能](https://leetcode.cn/problems/3sum-with-multiplicity) 
+- [ ] 28: 	 [2425.所有数对的异或和](https://leetcode.cn/problems/bitwise-xor-of-all-pairings) 
+- [ ] 250: 	 [1072.按列翻转得到最大值等行数](https://leetcode.cn/problems/flip-columns-for-maximum-number-of-equal-rows) 
+- [ ] 283: 	 [980.不同路径 III](https://leetcode.cn/problems/unique-paths-iii) 
+- [ ] 241: 	 [2712.使所有字符相等的最小成本](https://leetcode.cn/problems/minimum-cost-to-make-all-characters-equal) 

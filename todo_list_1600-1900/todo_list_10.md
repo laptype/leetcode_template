@@ -1,0 +1,20 @@
+# ToDo list 10: 
+
+
+- [ ] 311: 	 [2266.统计打字方案数](https://leetcode.cn/problems/count-number-of-texts) 
+- [ ] 81: 	 [2195.向数组中追加 K 个整数](https://leetcode.cn/problems/append-k-integers-with-minimal-sum) 
+- [ ] 185: 	 [1849.将字符串拆分为递减的连续值](https://leetcode.cn/problems/splitting-a-string-into-descending-consecutive-values) 
+- [ ] 184: 	 [1024.视频拼接](https://leetcode.cn/problems/video-stitching) 
+- [ ] 338: 	 [1536.排布二进制网格的最少交换次数](https://leetcode.cn/problems/minimum-swaps-to-arrange-a-binary-grid) 
+- [ ] 261: 	 [2302.统计得分小于 K 的子数组数目](https://leetcode.cn/problems/count-subarrays-with-score-less-than-k) 
+- [ ] 59: 	 [2226.每个小孩最多能分到多少糖果](https://leetcode.cn/problems/maximum-candies-allocated-to-k-children) 
+- [ ] 212: 	 [2718.查询后矩阵的和](https://leetcode.cn/problems/sum-of-matrix-after-queries) 
+- [ ] 77: 	 [2304.网格中的最小路径代价](https://leetcode.cn/problems/minimum-path-cost-in-a-grid) 
+- [ ] 272: 	 [2217.找到指定长度的回文数](https://leetcode.cn/problems/find-palindrome-with-fixed-length) 
+- [ ] 350: 	 [878.第 N 个神奇数字](https://leetcode.cn/problems/nth-magical-number) 
+- [ ] 288: 	 [1316.不同的循环子字符串](https://leetcode.cn/problems/distinct-echo-substrings) 
+- [ ] 58: 	 [2196.根据描述创建二叉树](https://leetcode.cn/problems/create-binary-tree-from-descriptions) 
+- [ ] 239: 	 [2192.有向无环图中一个节点的所有祖先](https://leetcode.cn/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph) 
+- [ ] 307: 	 [1269.停在原地的方案数](https://leetcode.cn/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps) 
+- [ ] 60: 	 [1358.包含所有三种字符的子字符串数目](https://leetcode.cn/problems/number-of-substrings-containing-all-three-characters) 
+- [ ] 21: 	 [2766.重新放置石块](https://leetcode.cn/problems/relocate-marbles) 

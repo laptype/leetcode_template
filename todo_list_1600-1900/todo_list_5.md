@@ -1,0 +1,20 @@
+# ToDo list 5: 
+
+
+- [ ] 10: 	 [1300.转变数组后最接近目标值的数组和](https://leetcode.cn/problems/sum-of-mutated-array-closest-to-target) 
+- [ ] 292: 	 [2013.检测正方形](https://leetcode.cn/problems/detect-squares) 
+- [ ] 255: 	 [1953.你可以工作的最大周数](https://leetcode.cn/problems/maximum-number-of-weeks-for-which-you-can-work) 
+- [ ] 227: 	 [1171.从链表中删去总和值为零的连续节点](https://leetcode.cn/problems/remove-zero-sum-consecutive-nodes-from-linked-list) 
+- [ ] 138: 	 [958.二叉树的完全性检验](https://leetcode.cn/problems/check-completeness-of-a-binary-tree) 
+- [ ] 305: 	 [2162.设置时间的最少代价](https://leetcode.cn/problems/minimum-cost-to-set-cooking-time) 
+- [ ] 270: 	 [2055.蜡烛之间的盘子](https://leetcode.cn/problems/plates-between-candles) 
+- [ ] 266: 	 [1284.转化为全零矩阵的最少反转次数](https://leetcode.cn/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) 
+- [ ] 37: 	 [1680.连接连续二进制数字](https://leetcode.cn/problems/concatenation-of-consecutive-binary-numbers) 
+- [ ] 121: 	 [1419.数青蛙](https://leetcode.cn/problems/minimum-number-of-frogs-croaking) 
+- [ ] 2: 	 [926.将字符串翻转到单调递增](https://leetcode.cn/problems/flip-string-to-monotone-increasing) 
+- [ ] 33: 	 [2684.矩阵中移动的最大次数](https://leetcode.cn/problems/maximum-number-of-moves-in-a-grid) 
+- [ ] 131: 	 [1487.保证文件名唯一](https://leetcode.cn/problems/making-file-names-unique) 
+- [ ] 204: 	 [2453.摧毁一系列目标](https://leetcode.cn/problems/destroy-sequential-targets) 
+- [ ] 84: 	 [863.二叉树中所有距离为 K 的结点](https://leetcode.cn/problems/all-nodes-distance-k-in-binary-tree) 
+- [ ] 68: 	 [1311.获取你好友已观看的视频](https://leetcode.cn/problems/get-watched-videos-by-your-friends) 
+- [ ] 304: 	 [1152.用户网站访问行为分析](https://leetcode.cn/problems/analyze-user-website-visit-pattern) 

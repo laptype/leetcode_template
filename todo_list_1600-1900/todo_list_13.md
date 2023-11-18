@@ -1,0 +1,20 @@
+# ToDo list 13: 
+
+
+- [ ] 154: 	 [1781.所有子字符串美丽值之和](https://leetcode.cn/problems/sum-of-beauty-of-all-substrings) 
+- [ ] 182: 	 [1391.检查网格中是否存在有效路径](https://leetcode.cn/problems/check-if-there-is-a-valid-path-in-a-grid) 
+- [ ] 54: 	 [2187.完成旅途的最少时间](https://leetcode.cn/problems/minimum-time-to-complete-trips) 
+- [ ] 71: 	 [1257.最小公共区域](https://leetcode.cn/problems/smallest-common-region) 
+- [ ] 329: 	 [1526.形成目标数组的子数组最少增加次数](https://leetcode.cn/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array) 
+- [ ] 69: 	 [1509.三次操作后最大值与最小值的最小差](https://leetcode.cn/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves) 
+- [ ] 169: 	 [889.根据前序和后序遍历构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-postorder-traversal) 
+- [ ] 253: 	 [1186.删除一次得到子数组最大和](https://leetcode.cn/problems/maximum-subarray-sum-with-one-deletion) 
+- [ ] 217: 	 [918.环形子数组的最大和](https://leetcode.cn/problems/maximum-sum-circular-subarray) 
+- [ ] 26: 	 [2541.使数组中所有元素相等的最小操作数 II](https://leetcode.cn/problems/minimum-operations-to-make-array-equal-ii) 
+- [ ] 50: 	 [838.推多米诺](https://leetcode.cn/problems/push-dominoes) 
+- [ ] 333: 	 [1838.最高频元素的频数](https://leetcode.cn/problems/frequency-of-the-most-frequent-element) 
+- [ ] 240: 	 [2321.拼接数组的最大分数](https://leetcode.cn/problems/maximum-score-of-spliced-array) 
+- [ ] 90: 	 [1620.网络信号最好的坐标](https://leetcode.cn/problems/coordinate-with-maximum-network-quality) 
+- [ ] 344: 	 [2064.分配给商店的最多商品的最小值](https://leetcode.cn/problems/minimized-maximum-of-products-distributed-to-any-store) 
+- [ ] 171: 	 [2048.下一个更大的数值平衡数](https://leetcode.cn/problems/next-greater-numerically-balanced-number) 
+- [ ] 291: 	 [2332.坐上公交的最晚时间](https://leetcode.cn/problems/the-latest-time-to-catch-a-bus) 

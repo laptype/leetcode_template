@@ -1,0 +1,20 @@
+# ToDo list 3: 
+
+
+- [ ] 181: 	 [2502.设计内存分配器](https://leetcode.cn/problems/design-memory-allocator) 
+- [ ] 5: 	 [2316.统计无向图中无法互相到达点对数](https://leetcode.cn/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph) 
+- [ ] 252: 	 [1711.大餐计数](https://leetcode.cn/problems/count-good-meals) 
+- [ ] 47: 	 [2512.奖励最顶尖的 K 名学生](https://leetcode.cn/problems/reward-top-k-students) 
+- [ ] 6: 	 [2424.最长上传前缀](https://leetcode.cn/problems/longest-uploaded-prefix) 
+- [ ] 112: 	 [1031.两个非重叠子数组的最大和](https://leetcode.cn/problems/maximum-sum-of-two-non-overlapping-subarrays) 
+- [ ] 190: 	 [1111.有效括号的嵌套深度](https://leetcode.cn/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) 
+- [ ] 53: 	 [2344.使数组可以被整除的最少删除次数](https://leetcode.cn/problems/minimum-deletions-to-make-array-divisible) 
+- [ ] 275: 	 [1377.T 秒后青蛙的位置](https://leetcode.cn/problems/frog-position-after-t-seconds) 
+- [ ] 296: 	 [2598.执行操作后的最大 MEX](https://leetcode.cn/problems/smallest-missing-non-negative-integer-after-operations) 
+- [ ] 118: 	 [2233.K 次增加后的最大乘积](https://leetcode.cn/problems/maximum-product-after-k-increments) 
+- [ ] 346: 	 [2537.统计好子数组的数目](https://leetcode.cn/problems/count-the-number-of-good-subarrays) 
+- [ ] 238: 	 [1156.单字符重复子串的最大长度](https://leetcode.cn/problems/swap-for-longest-repeated-character-substring) 
+- [ ] 17: 	 [1670.设计前中后队列](https://leetcode.cn/problems/design-front-middle-back-queue) 
+- [ ] 279: 	 [934.最短的桥](https://leetcode.cn/problems/shortest-bridge) 
+- [ ] 135: 	 [1774.最接近目标价格的甜点成本](https://leetcode.cn/problems/closest-dessert-cost) 
+- [ ] 67: 	 [2343.裁剪数字后查询第 K 小的数字](https://leetcode.cn/problems/query-kth-smallest-trimmed-number) 

@@ -1,0 +1,20 @@
+# ToDo list 1: 
+
+
+- [ ] 331: 	 [1015.可被 K 整除的最小整数](https://leetcode.cn/problems/smallest-integer-divisible-by-k) 
+- [ ] 111: 	 [2182.构造限制重复的字符串](https://leetcode.cn/problems/construct-string-with-repeat-limit) 
+- [ ] 254: 	 [1673.找出最具竞争力的子序列](https://leetcode.cn/problems/find-the-most-competitive-subsequence) 
+- [ ] 336: 	 [2101.引爆最多的炸弹](https://leetcode.cn/problems/detonate-the-maximum-bombs) 
+- [ ] 157: 	 [2397.被列覆盖的最多行数](https://leetcode.cn/problems/maximum-rows-covered-by-columns) 
+- [ ] 302: 	 [1775.通过最少操作次数使数组的和相等](https://leetcode.cn/problems/equal-sum-arrays-with-minimum-number-of-operations) 
+- [ ] 27: 	 [2364.统计坏数对的数目](https://leetcode.cn/problems/count-number-of-bad-pairs) 
+- [ ] 119: 	 [950.按递增顺序显示卡牌](https://leetcode.cn/problems/reveal-cards-in-increasing-order) 
+- [ ] 167: 	 [1220.统计元音字母序列的数目](https://leetcode.cn/problems/count-vowels-permutation) 
+- [ ] 231: 	 [2653.滑动子数组的美丽值](https://leetcode.cn/problems/sliding-subarray-beauty) 
+- [ ] 265: 	 [2642.设计可以求最短路径的图类](https://leetcode.cn/problems/design-graph-with-shortest-path-calculator) 
+- [ ] 207: 	 [2462.雇佣 K 位工人的总代价](https://leetcode.cn/problems/total-cost-to-hire-k-workers) 
+- [ ] 245: 	 [2381.字母移位 II](https://leetcode.cn/problems/shifting-letters-ii) 
+- [ ] 137: 	 [2100.适合打劫银行的日子](https://leetcode.cn/problems/find-good-days-to-rob-the-bank) 
+- [ ] 201: 	 [2498.青蛙过河 II](https://leetcode.cn/problems/frog-jump-ii) 
+- [ ] 211: 	 [1600.王位继承顺序](https://leetcode.cn/problems/throne-inheritance) 
+- [ ] 24: 	 [2241.设计一个 ATM 机器](https://leetcode.cn/problems/design-an-atm-machine) 

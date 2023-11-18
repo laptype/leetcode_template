@@ -1,0 +1,20 @@
+# ToDo list 16: 
+
+
+- [ ] 11: 	 [1123.最深叶节点的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-deepest-leaves) 
+- [ ] 297: 	 [874.模拟行走机器人](https://leetcode.cn/problems/walking-robot-simulation) 
+- [ ] 178: 	 [2087.网格图中机器人回家的最小代价](https://leetcode.cn/problems/minimum-cost-homecoming-of-a-robot-in-a-grid) 
+- [ ] 262: 	 [1230.抛掷硬币](https://leetcode.cn/problems/toss-strange-coins) 
+- [ ] 75: 	 [1583.统计不开心的朋友](https://leetcode.cn/problems/count-unhappy-friends) 
+- [ ] 117: 	 [2074.反转偶数长度组的节点](https://leetcode.cn/problems/reverse-nodes-in-even-length-groups) 
+- [ ] 183: 	 [1530.好叶子节点对的数量](https://leetcode.cn/problems/number-of-good-leaf-nodes-pairs) 
+- [ ] 40: 	 [1319.连通网络的操作次数](https://leetcode.cn/problems/number-of-operations-to-make-network-connected) 
+- [ ] 225: 	 [1895.最大的幻方](https://leetcode.cn/problems/largest-magic-square) 
+- [ ] 82: 	 [2170.使数组变成交替数组的最少操作数](https://leetcode.cn/problems/minimum-operations-to-make-the-array-alternating) 
+- [ ] 70: 	 [1155.掷骰子等于目标和的方法数](https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum) 
+- [ ] 146: 	 [1136.并行课程](https://leetcode.cn/problems/parallel-courses) 
+- [ ] 349: 	 [1871.跳跃游戏 VII](https://leetcode.cn/problems/jump-game-vii) 
+- [ ] 142: 	 [901.股票价格跨度](https://leetcode.cn/problems/online-stock-span) 
+- [ ] 161: 	 [1197.进击的骑士](https://leetcode.cn/problems/minimum-knight-moves) 
+- [ ] 208: 	 [1706.球会落何处](https://leetcode.cn/problems/where-will-the-ball-fall) 
+- [ ] 259: 	 [1073.负二进制数相加](https://leetcode.cn/problems/adding-two-negabinary-numbers) 

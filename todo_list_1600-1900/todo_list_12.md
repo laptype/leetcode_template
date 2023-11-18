@@ -1,0 +1,20 @@
+# ToDo list 12: 
+
+
+- [ ] 177: 	 [1145.二叉树着色游戏](https://leetcode.cn/problems/binary-tree-coloring-game) 
+- [ ] 32: 	 [916.单词子集](https://leetcode.cn/problems/word-subsets) 
+- [ ] 234: 	 [971.翻转二叉树以匹配先序遍历](https://leetcode.cn/problems/flip-binary-tree-to-match-preorder-traversal) 
+- [ ] 228: 	 [1765.地图中的最高点](https://leetcode.cn/problems/map-of-highest-peak) 
+- [ ] 328: 	 [2008.出租车的最大盈利](https://leetcode.cn/problems/maximum-earnings-from-taxi) 
+- [ ] 213: 	 [2685.统计完全连通分量的数量](https://leetcode.cn/problems/count-the-number-of-complete-components) 
+- [ ] 86: 	 [2063.所有子字符串中的元音](https://leetcode.cn/problems/vowels-of-all-substrings) 
+- [ ] 152: 	 [1372.二叉树中的最长交错路径](https://leetcode.cn/problems/longest-zigzag-path-in-a-binary-tree) 
+- [ ] 180: 	 [1638.统计只差一个字符的子串数目](https://leetcode.cn/problems/count-substrings-that-differ-by-one-character) 
+- [ ] 242: 	 [2771.构造最长非递减子数组](https://leetcode.cn/problems/longest-non-decreasing-subarray-from-two-arrays) 
+- [ ] 267: 	 [1658.将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero) 
+- [ ] 95: 	 [1215.步进数](https://leetcode.cn/problems/stepping-numbers) 
+- [ ] 98: 	 [1870.准时到达的列车最小时速](https://leetcode.cn/problems/minimum-speed-to-arrive-on-time) 
+- [ ] 13: 	 [2320.统计放置房子的方式数](https://leetcode.cn/problems/count-number-of-ways-to-place-houses) 
+- [ ] 76: 	 [1091.二进制矩阵中的最短路径](https://leetcode.cn/problems/shortest-path-in-binary-matrix) 
+- [ ] 301: 	 [2059.转化数字的最小运算数](https://leetcode.cn/problems/minimum-operations-to-convert-number) 
+- [ ] 321: 	 [1605.给定行和列的和求可行矩阵](https://leetcode.cn/problems/find-valid-matrix-given-row-and-column-sums) 

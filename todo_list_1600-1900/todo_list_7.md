@@ -1,0 +1,20 @@
+# ToDo list 7: 
+
+
+- [ ] 198: 	 [1954.收集足够苹果的最小花园周长](https://leetcode.cn/problems/minimum-garden-perimeter-to-collect-enough-apples) 
+- [ ] 314: 	 [2301.替换字符后匹配](https://leetcode.cn/problems/match-substring-after-replacement) 
+- [ ] 19: 	 [2232.向表达式添加括号后的最小结果](https://leetcode.cn/problems/minimize-result-by-adding-parentheses-to-expression) 
+- [ ] 319: 	 [2039.网络空闲的时刻](https://leetcode.cn/problems/the-time-when-the-network-becomes-idle) 
+- [ ] 308: 	 [1334.阈值距离内邻居最少的城市](https://leetcode.cn/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) 
+- [ ] 312: 	 [1584.连接所有点的最小费用](https://leetcode.cn/problems/min-cost-to-connect-all-points) 
+- [ ] 147: 	 [1567.乘积为正数的最长子数组长度](https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product) 
+- [ ] 232: 	 [1911.最大子序列交替和](https://leetcode.cn/problems/maximum-alternating-subsequence-sum) 
+- [ ] 134: 	 [1054.距离相等的条形码](https://leetcode.cn/problems/distant-barcodes) 
+- [ ] 162: 	 [1359.有效的快递序列数目](https://leetcode.cn/problems/count-all-valid-pickup-and-delivery-options) 
+- [ ] 247: 	 [886.可能的二分法](https://leetcode.cn/problems/possible-bipartition) 
+- [ ] 310: 	 [1202.交换字符串中的元素](https://leetcode.cn/problems/smallest-string-with-swaps) 
+- [ ] 15: 	 [2567.修改两个元素的最小分数](https://leetcode.cn/problems/minimum-score-by-changing-two-elements) 
+- [ ] 341: 	 [2054.两个最好的不重叠活动](https://leetcode.cn/problems/two-best-non-overlapping-events) 
+- [ ] 127: 	 [829.连续整数求和](https://leetcode.cn/problems/consecutive-numbers-sum) 
+- [ ] 339: 	 [858.镜面反射](https://leetcode.cn/problems/mirror-reflection) 
+- [ ] 222: 	 [1129.颜色交替的最短路径](https://leetcode.cn/problems/shortest-path-with-alternating-colors) 

@@ -1,0 +1,20 @@
+# ToDo list 8: 
+
+
+- [ ] 7: 	 [2522.将字符串分割成值不超过 K 的子字符串](https://leetcode.cn/problems/partition-string-into-substrings-with-values-at-most-k) 
+- [ ] 285: 	 [2370.最长理想子序列](https://leetcode.cn/problems/longest-ideal-subsequence) 
+- [ ] 278: 	 [1702.修改后的最大二进制字符串](https://leetcode.cn/problems/maximum-binary-string-after-change) 
+- [ ] 25: 	 [1503.所有蚂蚁掉下来前的最后一刻](https://leetcode.cn/problems/last-moment-before-all-ants-fall-out-of-a-plank) 
+- [ ] 56: 	 [2275.按位与结果大于零的最长组合](https://leetcode.cn/problems/largest-combination-with-bitwise-and-greater-than-zero) 
+- [ ] 62: 	 [870.优势洗牌](https://leetcode.cn/problems/advantage-shuffle) 
+- [ ] 347: 	 [1722.执行交换操作后的最小汉明距离](https://leetcode.cn/problems/minimize-hamming-distance-after-swap-operations) 
+- [ ] 116: 	 [1443.收集树上所有苹果的最少时间](https://leetcode.cn/problems/minimum-time-to-collect-all-apples-in-a-tree) 
+- [ ] 215: 	 [1238.循环码排列](https://leetcode.cn/problems/circular-permutation-in-binary-representation) 
+- [ ] 22: 	 [2145.统计隐藏数组数目](https://leetcode.cn/problems/count-the-hidden-sequences) 
+- [ ] 230: 	 [894.所有可能的真二叉树](https://leetcode.cn/problems/all-possible-full-binary-trees) 
+- [ ] 130: 	 [2588.统计美丽子数组数目](https://leetcode.cn/problems/count-the-number-of-beautiful-subarrays) 
+- [ ] 233: 	 [983.最低票价](https://leetcode.cn/problems/minimum-cost-for-tickets) 
+- [ ] 31: 	 [1248.统计「优美子数组」](https://leetcode.cn/problems/count-number-of-nice-subarrays) 
+- [ ] 263: 	 [1519.子树中标签相同的节点数](https://leetcode.cn/problems/number-of-nodes-in-the-sub-tree-with-the-same-label) 
+- [ ] 243: 	 [1245.树的直径](https://leetcode.cn/problems/tree-diameter) 
+- [ ] 216: 	 [2531.使字符串总不同字符的数目相等](https://leetcode.cn/problems/make-number-of-distinct-characters-equal) 
